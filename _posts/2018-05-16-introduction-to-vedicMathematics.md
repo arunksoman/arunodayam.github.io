@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introduction to Vedic Mathematics
-date:   2018-05-16 10:07:39 -0700
+title: വേദഗണിതം: ഒരു ആമുഖം
+date:   2018-05-16 10:07:39 -0700
 category: Vedic_Mathematics
 img: /static/IMG/maths1.jpeg
 color: deep-purple
@@ -11,55 +11,43 @@ tags:
 - Tricks
 ---
 
-The “Vedic Mathematics” is called so because of its origin from Vedas. To be more specific, it has originated from “Atharva Vedas” the fourth Veda. “Atharva Veda” deals with the branches like Engineering, Mathematics, sculpture, Medicine, and all other sciences with which we are today aware of.
+പുരിയിലെ ഗോവർദ്ധൻ മഠത്തിലെ ശങ്കരാചാര്യർ ആയിരുന്ന ഭാരതി കൃഷ്ണ തീർത്ഥജി ഇംഗ്ലീഷ് ഭാഷയിൽ രചിക്കുകയും അദ്ദേഹത്തിന്റെ മരണശേഷം 1965-ൽ പ്രസിദ്ധീകരിക്കപ്പെടുകയും ചെയ്ത ഗ്രന്ഥമാണ് വേദഗണിതം (ഇംഗ്ലീഷ്: Vedic Mathematics). ട്രാക്ക്ടൺബർഗ് ഗണനസമ്പ്രദായത്തെപ്പോലെ അടിസ്ഥാന ഗണിത ക്രിയകൾ എളുപ്പത്തിൽ ചെയ്യുന്നതിനുള്ള സൂത്രവിദ്യകൾ (Tricks) ഈ പുസ്തകത്തിൽ വിവരിക്കുന്നു. വേദകാലഘട്ടത്തിൽ നിലനിന്നിരുന്ന പ്രാചീന ഗണനാസമ്പ്രദായത്തെ താൻ പുനരവതരിപ്പിക്കുകയാണെന്നാണ് ഈ പുസ്തകത്തിൽ തീർത്ഥജി അവകാശപ്പെടുന്നതെങ്കിലും ഈ ഗണനപദ്ധതിയ്ക്ക് വേദങ്ങളുമായി യാതൊരു ബന്ധവുമില്ലെന്ന് ഈ പുസ്തകത്തിന്റെ ആമുഖത്തിൽ തന്നെ മുഖ്യ എഡിറ്റർ ഡോ. എ.എസ്. അഗർവാല ചൂണ്ടിക്കാട്ടിയിട്ടുണ്ട്.
 
-The Sanskrit word Veda is derived from the root Vid, meaning to know without limit. The word Veda covers all Veda-Sakhas known to humanity. The Veda is a repository of all knowledge, fathomless, ever revealing as it is delved deeper.
+അടൽ ബിഹാരി വാജ്പേയിയുടെനേതൃത്വത്തിലുള്ള എൻ.ഡി.എ. സർക്കാർ വേദഗണിതവും വേദജ്യോതിഷവും പാഠ്യപദ്ധതിയിൽ ഉൾപ്പെടുത്താൻ തീരുമാനിച്ചതിനെതിരെ എസ്.ജി. ദാനി അടക്കമുള്ള ശാസ്ത്ര-വിദ്യാഭ്യാസരംഗത്തെ പ്രമുഖർ കടുത്തപ്രതിഷേധം ഉയർത്തുകയുണ്ടായി. അഥർവ്വവേദത്തിലെസുല്യസൂത്രങ്ങളിൽ നിന്ന് എടുത്തിട്ടുള്ളവയാണ് വേദഗണിതത്തിലെ സൂക്തങ്ങൾ എന്ന് തീർത്ഥജി അവകാശപ്പെടുന്നു. സുല്യസൂത്രങ്ങളുടെ സംസ്കൃതത്തിലുള്ള മൂലപാഠവും ആധികാരികമായ പരിഭാഷയും ചേർത്ത് ഇന്ത്യൻ നാഷണൽ സയൻസ് അക്കാദമി 1983-ൽ പുസ്തകരൂപത്തിൽ പ്രസിദ്ധീകരിക്കുകയുണ്ടായി. വേദഗണിതത്തിൽ തീർത്ഥജി അവതരിപ്പിക്കുന്ന സൂക്തങ്ങൾ ഒന്നുപോലും സുല്യസൂത്രങ്ങളുടെ ആധികാരികമായ ഈ പതിപ്പിൽ ഇല്ല. അതുകൊണ്ടുതന്നെ "വേദഗണിതം എന്ന പദം തന്നെ മൊത്തത്തിൽ തെറ്റിദ്ധരിപ്പിക്കുന്നതാണ്. ഇത് വേദജന്യമല്ല, ഗണിതവുമല്ല" എന്നാണ് ഗണിതശാസ്ത്രമേഖലയിലെ പ്രമുഖർ ഇതിനെപ്പറ്റി അഭിപ്രായപ്പെട്ടിട്ടുള്ളത്. എന്തായാലും നമ്മൾക്ക് വിവാദങ്ങളുടെ പുറകെ പോകേണ്ടതില്ലല്ലോ. നമ്മൾക്ക്  വേദഗണിതത്തിന്റെ നല്ല വശങ്ങളെ കുറിച്ച് മാത്രം ചിന്തിച്ചാൽ മതി.
 
-It is an ancient technique, which simplifies multiplication, divisibility, complex numbers, squaring, cubing, square roots and cube roots. Even recurring decimals and auxiliary fractions can be handled by Vedic mathematics. Vedic Mathematics forms part of Jyotish Shastra which is one of the six parts of Vedangas. The Jyotish Shastra or Astronomy is made up of three parts called Skandas. A Skanda means the big branch of a tree shooting out of the trunk.
+16 സൂത്രങ്ങളും 13 ഉപസൂത്രങ്ങളും ആണ് വേദഗണിതത്തിന്റെ ആധാരം. ഈ സൂത്രങ്ങളെക്കുറിച്ച് മുഴുവൻ ചർച്ച ചെയ്യാൻ പരിമിതികളുണ്ട്. എന്നാൽ പരമാവധി സൂത്രങ്ങളെക്കുറിച്ച് ഇവിടെ ചർച്ച ചെയ്യുവാനാണ് തീരുമാനം.
 
-This subject was revived largely due to the efforts of **Jagadguru Swami Bharathi Krishna Tirtha Ji** of Govardhan Peeth, Puri Jaganath (1884-1960). Having researched the subject for years, even his efforts would have gone in vain but for the enterprise of some disciples who took down notes during his last days. The basis of Vedic mathematics, are the 16 sutras, which attribute a set of qualities to a number or a group of numbers. The ancient Hindu scientists (Rishis) of Bharat in 16 Sutras (Phrases) and 120 words laid down simple steps for solving all mathematical problems in easy to follow 2 or 3 steps.
+### 16 സൂത്രങ്ങൾ
+ 
+ 1. ഏകാധികേന പൂർവ്വേന
+2. നിഖിലം നവമശ്ചരമം ദശത:
+3. ഊർദ്ധ്വതിര്യഗ്ഭ്യാം
+4. പരാവർത്യ യോജയേത്
+5. ശൂന്യം സാമ്യസമുച്ചയേ
+6. അനുരുപ്യേ ശൂന്യമന്യത്
+7. സങ്കലനവ്യവകലനാഭ്യാം
+8. പൂരണാപൂരണാഭ്യാം
+9. ചലനകലനാഭ്യാം
+10. യാവദൂനം
+11. വ്യഷ്ടിസമഷ്ടി
+12. ശേഷാണ്യഡേന ചരമേണ
+13. സോപാന്ത്യദയമന്ത്യം
+14. ഏകന്യൂനേന പൂർവന
+15. ഗുണിതസമുച്ചയ
+16. ഗുണകസമുച്ചയ
 
-Vedic Mental or one or two line methods can be used effectively for solving divisions, reciprocals, factorisation, HCF, squares and square roots, cubes and cube roots, algebraic equations, multiple simultaneous equations, quadratic equations, cubic equations, biquadratic equations, higher degree equations, differential calculus, Partial fractions, Integrations, Pythogorus Theoram, Apollonius Theoram, Analytical Conics and so on.
+### 13 ഉപസൂത്രങ്ങൾ
 
-Vedic scholars did not use figures for big numbers in their numerical notation. Instead, they preferred to use the Sanskrit alphabets, with each alphabet constituting a number. Several mantras, in fact, denote numbers; that includes the famed Gayatri Mantra, which adds to 108 when decoded. How fast you can solve a problem is very important. There is a race against time in all the competitions. Only those people having fast calculation ability will be able to win the race. Time saved can be used to solve more problems or used for difficult problems.
-
-Given the initial training in modern maths in today’s schools, students will be able to comprehend the logic of Vedic mathematics after they have reached the 8th standard. It will be of interest to everyone but more so to younger students keen to make their mark in competitive entrance exams. India’s past could well help them make it in today’s world. It is amazing how with the help of 16 Sutras and 13 sub-sutras, the Vedic seers were able to mentally calculate complex mathematical problems.
-
-The 16 Sutras and Sub-sutras are given below with their pronunciation(in bracket) meaning in English :
-
-### Sixteen Sutras
-
-1. एकाधिकेन पूर्वेण (Ekadhikena Purvena) : One more than the previous one
-2. निखिलम नवश्चरमं दशत: (Nikhilam Navatascaramam Dasatah): All from 9 and last from 10
-3. ऊर्ध्वतिर्यग्भ्यां (Urdhva-tiryagbhyam): Criss-cross (Vertically and cross-wise)
-4. परावरत्य योजयेत_ (Paravartya Yojayet): Transpose and adjust (Transpose and apply)
-5. शून्यम साम्यसमुच्चये (Sunyam Samyasamuccaye): When the samuchchaya is the same, the samuchchaya is zero, i.e it should be equated to zero.
-6. आनुरूप्ये (Anurupye): If one is in ratio, the other one is zero
-7. संक्लनव्यवकलनाभ्याम् (Sankalana-vyavakalanabhyam): By addition and by subtraction
-8. पूरणापूराणाभ्याम् (Puranapuranabhyam): By the completion or non-completion
-9. चलनकलनाभ्यां (Calana-Kalanabhyam): By Calculus
-10. यावदूनम् (Yavadunam): By the deficiency
-11. व्यष्टिसमष्टि: (Vyastisamastih): Specific and General (Use the average)
-12. शेषण्यकेन चरमेण (Sesanyankena Caramena): The remainders by the last digit
-13. सोपन्त्यद्वयमन्त्यम् (Sopantyadvayamantyam): The ultimate & twice the penultimate
-14. एकान्यूनेन पूर्वेण (Ekanyunena Purvena): By one less than the previous one
-15. गुणितसमुच्चय: (Gunitasamuccdyah): The product of the sum of coefficients in the factors(The whole product)
-16. गुणकसमुच्चय: (Gunakasamuccayah): Set of Multipliers
-
-### Thirteen Subsutras
-
-1. आनुरुप्येण (Anurupyena): Proportionately
-2. शिष्यते शेषसंज्ञ: (Sityate Sesasanfitah): The remainder remains constant
-3. आद्यमाद्येनान्त्यमन्त्येन (Adyamadyenantyainantyena): The first by the first and last by the last
-4. केवलै: सप्तकं गुण्यात (Kevalalh Saptakan Gunyat): In case of 7 our multiplicand should be 143
-5. वेष्टनं (Vestanam): By osculation
-6. यावदूनं तावदूनम् (Yavadunam Tavadunam): Lessen by the Deficiency
-7. यावदूनं तावदूनीकृत्यवर्गं च येजयेत (Yavadunam Taradunikrtya Varganca Yojayet): Whatever the extent of its deficiency, lessen it still to that very extent; and also set up the square of that deficiency.
-8. अन्त्ययोरेव (Antyayoreva):Only the last terms
-9. अन्त्ययोर्दशकेഽपि (Antyayordasake'pi): Whose last digits together total 10 and whose previous part is exactly the same
-10. समुच्चयगुणित: (Samuccayaguaitah): The sum of the coefficients in the product
-11. लोपस्थानाभ्याम् (Lopanasthapandbhyam): By alternate elimination and retention
-12. विलोकनम् (Vilokanam): By observation
-13. गुणितसमुच्चय: समुच्चयगुणित: (Gunitasamuccayah Samuccayagunitah): The product of sum of the coefficients in the factors is equal to the sum of the coefficients in the product.
-
-**Note: I know there is some mistakes in Devanagari transliteration. I tried my level best to type them with minimal mistakes.**
+1. ആനുരൂപ്യേണ
+2. ശിഷ്യതേ ശേഷസംജ്ഞ
+3. ആധമാധേനാന്ത്യമന്ത്യേന
+4. കേവലൈ സപ്തകം ഗുണ്യാത്
+5. വേഷ്ടനം
+6. യാവദൂനം താവദൂനം
+7. യാവദൂനം താവദൂനീകത്യ വർഗ്ഗം ച യോജയേത്
+8. അന്ത്യയോർദ്ദശകേപി
+9. അന്ത്യയോരേവ
+10. സമുച്ചയഗുണിത
+11. ലോപനസ്ഥാപനാഭ്യാം
+12. വിലോകനം
+13. ഗുണിതസമുച്ചയ സമുച്ചയഗുണിത
