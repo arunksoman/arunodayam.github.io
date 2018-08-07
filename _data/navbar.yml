@@ -1,9 +1,9 @@
-- menu: Home
-  link: http://chipprogrammers.github.io
+- menu: ഹോം
+  link: http://entepsc.github.io
   icon: fas fa-home
  
-- menu: Blog
-  link: https://chipprogrammers.github.io/blog
+- menu: ബ്ലോഗ്
+  link: https://entepsc.github.io/blog
   icon: fas fa-pencil-alt
 
 - menu: Docs
@@ -14,10 +14,10 @@
   link: http://github.com/chipprogrammers
   icon: fab fa-github
   
-- menu: Resume
+- menu: എന്നെ കുറിച്ച്
   link: http://chipprogrammers.github.io/online-cv
   icon: fa fa-paper-plane
 
-- menu: Sitemap
-  link: https://chipprogrammers.github.io/sitemap.xml
+- menu: സൈറ്റ്മാപ്പ്
+  link: https://entepsc.github.io/sitemap.xml
   icon: fas fa-rss
