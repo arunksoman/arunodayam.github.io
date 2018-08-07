@@ -1,6 +1,6 @@
 ---
 layout: post
-title: വേദഗണിതം: ഒരു ആമുഖം
+title: "വേദഗണിതം: ഒരു ആമുഖം"
 date:   2018-05-16 10:07:39 -0700
 category: Vedic_Mathematics
 img: /static/IMG/maths1.jpeg
