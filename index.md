@@ -10,10 +10,10 @@ title: എന്റെ പി.എസ്.സി
 ഈ ബ്ലോഗ് പ്രതിഫലേച്ഛയില്ലാതെ പ്രവർത്തിക്കുന്ന ഒരു സംരംഭം ആയി നിലനിർത്തണം എന്നാണ് ഞാൻ ആഗ്രഹിക്കുന്നത്. അതിനാൽ തന്നെയാണ് ഇങ്ങനെയൊരു സ്വതന്ത്ര പ്ലാറ്റ്ഫോമിൽ തന്നെ ഈ ബ്ലോഗ് നിർമിച്ചിരിക്കുന്നത്. ആദ്യം ഈ ബ്ലോഗ് ഗൂഗിളിന്റെ ആക്സിലേറേറ്റഡ് മൊബൈൽ പേജ്(AMP) എന്ന പ്രൊജക്ട് ആധാരമാക്കി നിർമിക്കാം എന്ന ധാരണയിൽ ആണ് ആദ്യം മുന്നോട്ട് പോയത്. എന്നാൽ ആക്സിലേറേറ്റഡ് മൊബൈൽ പേജ് എന്ന ആശയം എന്റെ സ്വാതന്ത്യത്തെ ഹനിക്കുന്നതിനാൽ സാധാരണയായി വെബ്സൈറ്റുകൾ നിർമിക്കുവാനായി ഉപയോഗിച്ച് വരുന്ന സി.എസ്.എസ്, ജാവാസ്ക്രിപ്റ്റ്, എച്ച്.റ്റി.എം.എൽ എന്നീ സാങ്കേതങ്ങൾ ഉപയോഗിക്കാൻ ഞാൻ നിർബന്ധിതനായി. എങ്കിലും ഈ വെബ്സൈറ്റ് വളരെ വേഗമേറിയതും മൊബൈൽ ഡിവൈസുകളിലും കംപ്യൂട്ടറിലും അനുയോജ്യമായ രീതിയിൽ സ്വയം രൂപമാറ്റത്തിന് വിധേയമാകുന്നതും(Responsive) ആയിരിക്കും എന്ന് ഞാൻ ഉറപ്പ് നൽകുന്നു.
 
 ## Accordion Test
-<button onclick="myFunction('Demo2')" class="w3-button w3-block w3-left-align w3-green">
+<button onclick="myFunction('Demo1')" class="w3-button w3-block w3-left-align w3-green">
 Left aligned and full-width</button>
 
-<div id="Demo2" class="w3-hide w3-container">
+<div id="Demo1" class="w3-hide w3-container">
   <p>Lorem ipsum...</p>
 </div>
 
@@ -24,9 +24,9 @@ Left aligned and full-width</button>
   <p>Lorem ipsum...</p>
 </div>
 
-<button onclick="myFunction('Demo2')" class="w3-button w3-block w3-left-align w3-green">
+<button onclick="myFunction('Demo3')" class="w3-button w3-block w3-left-align w3-green">
 Left aligned and full-width</button>
 
-<div id="Demo2" class="w3-hide w3-container">
+<div id="Demo3" class="w3-hide w3-container">
   <p>Lorem ipsum...</p>
 </div>
