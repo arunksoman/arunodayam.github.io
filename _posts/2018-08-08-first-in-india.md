@@ -13,10 +13,10 @@ tags:
 
 {% for i in site.data.first_indian_digital %}
 <div class="w3-panel w3-pale-blue w3-leftbar w3-border-blue">
-{{ forloop.index }}. {{ i.ques }}
+<p>{{ forloop.index }}. {{ i.ques }}</p>
 </div>
 <button onclick="myFunc('Demo{{ forloop.index }}')" class="w3-button w3-block w3-left-align w3-green">
-ഉത്തരം
+<p>ഉത്തരം</p>
 </button>
 <div id="Demo{{ forloop.index }}" class="w3-hide w3-center">
   <p>{{ i.ans }}</p>
