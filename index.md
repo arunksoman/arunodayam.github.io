@@ -9,24 +9,4 @@ title: എന്റെ പി.എസ്.സി
 
 ഈ ബ്ലോഗ് പ്രതിഫലേച്ഛയില്ലാതെ പ്രവർത്തിക്കുന്ന ഒരു സംരംഭം ആയി നിലനിർത്തണം എന്നാണ് ഞാൻ ആഗ്രഹിക്കുന്നത്. അതിനാൽ തന്നെയാണ് ഇങ്ങനെയൊരു സ്വതന്ത്ര പ്ലാറ്റ്ഫോമിൽ തന്നെ ഈ ബ്ലോഗ് നിർമിച്ചിരിക്കുന്നത്. ആദ്യം ഈ ബ്ലോഗ് ഗൂഗിളിന്റെ ആക്സിലേറേറ്റഡ് മൊബൈൽ പേജ്(AMP) എന്ന പ്രൊജക്ട് ആധാരമാക്കി നിർമിക്കാം എന്ന ധാരണയിൽ ആണ് ആദ്യം മുന്നോട്ട് പോയത്. എന്നാൽ ആക്സിലേറേറ്റഡ് മൊബൈൽ പേജ് എന്ന ആശയം എന്റെ സ്വാതന്ത്യത്തെ ഹനിക്കുന്നതിനാൽ സാധാരണയായി വെബ്സൈറ്റുകൾ നിർമിക്കുവാനായി ഉപയോഗിച്ച് വരുന്ന സി.എസ്.എസ്, ജാവാസ്ക്രിപ്റ്റ്, എച്ച്.റ്റി.എം.എൽ എന്നീ സാങ്കേതങ്ങൾ ഉപയോഗിക്കാൻ ഞാൻ നിർബന്ധിതനായി. എങ്കിലും ഈ വെബ്സൈറ്റ് വളരെ വേഗമേറിയതും മൊബൈൽ ഡിവൈസുകളിലും കംപ്യൂട്ടറിലും അനുയോജ്യമായ രീതിയിൽ സ്വയം രൂപമാറ്റത്തിന് വിധേയമാകുന്നതും(Responsive) ആയിരിക്കും എന്ന് ഞാൻ ഉറപ്പ് നൽകുന്നു.
 
-## Accordion Test
-<button onclick="myFunction('Demo1')" class="w3-button w3-block w3-left-align w3-green">
-Left aligned and full-width</button>
-
-<div id="Demo1" class="w3-hide w3-container">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button onclick="myFunction('Demo2')" class="w3-button w3-block w3-left-align w3-green">
-Left aligned and full-width</button>
-
-<div id="Demo2" class="w3-hide w3-container">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button onclick="myFunction('Demo3')" class="w3-button w3-block w3-left-align w3-green">
-Left aligned and full-width</button>
-
-<div id="Demo3" class="w3-hide w3-container">
-  <p>Lorem ipsum...</p>
-</div>
+ഈ ബ്ലോഗിന്റെ സോഴ്സ് കോഡ് ഒരു പരിധിവരെ അശുതോഷ് ചൗധരിയുടെ [HCZ-jekyll-blog](https://github.com/codeasashu/hcz-jekyll-blog){: target="_blank" } തീമിൽ നിന്നും കടമെടുത്തതാണ്. ഈ ബ്ലോഗ് [w3.css](https://www.w3schools.com/w3css/){: target="_blank" } ഉപയോഗിച്ചാണ് ഭംഗിയാക്കിയിരിക്കുന്നത്. ഈ വെബ്സൈറ്റിൽ ഉടനീളമുള്ള പോസ്റ്റുകളിൽ നിന്നും വളരെ വേഗത്തിൽ ആവശ്യമുള്ളത് കണ്ടെത്താൻ [കുശാഗ്ര ഗൗർ](https://kushagragour.in){: target="_blank" } നിർമിച്ച [സൂപ്പർ സെർച്ച്](https://github.com/chinchang/super-search]{: target="_blank" } അൽഗോരിതം സഹായിക്കും. ഈ വെബ്സൈറ്റിന് മുകളിൽ സദാ കാണുന്ന നാവിഗേഷൻ ബാറിലെ സെർച്ച് ബട്ടണിൽ ക്ലിക്ക് ചെയ്തോ അല്ലെങ്കിൽ കീബോർഡിലെ '/' കീയോ 'esc' കീയോ അമർത്തി സെർച്ച് നിങ്ങൾക്ക് തുറക്കാവുന്നതാണ്. ഈ വെബ്സൈറ്റ് ഇങ്ങനെ സുന്ദരമാക്കാൻ സഹായിച്ച എല്ലാവർക്കും ഈ അവസരത്തിൽ നന്ദി പറയുന്നു.
