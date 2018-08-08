@@ -10,10 +10,15 @@ tags:
 - India
 - In first
 ---
-rtyv the following
+
 {% for i in site.data.first_indian_digital %}
 <div class="w3-panel w3-pale-blue w3-leftbar w3-border-blue">
 {{ forloop.index }}. {{ i.ques }}
 </div>
-{{ i.ans }}
+<button onclick="myFunc('ques-{{ forloop.index }}')" class="w3-button w3-block w3-left-align w3-green">
+ഉത്തരം
+</button>
+<div id="ques-{{ forloop.index }}" class="w3-hide w3-center">
+  <p>{{ i.ans }}</p>
+</div>
 {% endfor %}
