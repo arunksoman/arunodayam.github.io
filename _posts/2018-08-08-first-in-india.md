@@ -15,10 +15,10 @@ tags:
 <div class="w3-panel w3-pale-blue w3-leftbar w3-border-blue">
 {{ forloop.index }}. {{ i.ques }}
 </div>
-<button onclick="myFunc('ques-{{ forloop.index }}')" class="w3-button w3-block w3-left-align w3-green">
+<button onclick="myFunc('Demo-{{ forloop.index }}')" class="w3-button w3-block w3-left-align w3-green">
 ഉത്തരം
 </button>
-<div id="ques-{{ forloop.index }}" class="w3-hide w3-center">
+<div id="Demo-{{ forloop.index }}" class="w3-hide w3-center">
   <p>{{ i.ans }}</p>
 </div>
 {% endfor %}
