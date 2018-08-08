@@ -11,7 +11,7 @@ tags:
 - In first
 ---
 
-<ul>
+<ul class="question">
 {% for i in site.data.first_indian_digital %}
 <ol>{{ forloop.index }}. {{ i.ques }}</ol><br />
 {{ i.ans }}
