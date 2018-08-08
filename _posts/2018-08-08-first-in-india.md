@@ -10,10 +10,10 @@ tags:
 - India
 - In first
 ---
-
-<ul class="question">
+rtyv the following
 {% for i in site.data.first_indian_digital %}
-<ol>{{ forloop.index }}. {{ i.ques }}</ol><br />
+<div class="w3-panel w3-pale-blue w3-leftbar w3-border-blue">
+{{ forloop.index }}. {{ i.ques }}
+</div>
 {{ i.ans }}
 {% endfor %}
-</ul>
