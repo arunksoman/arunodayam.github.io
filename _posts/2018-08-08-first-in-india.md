@@ -13,7 +13,7 @@ tags:
 
 <ul>
 {% for i in site.data.first_indian_digital %}
-<ol>{{ i }}. {{ i.ques }}</ol><br />
+<ol>{{ forloop.index }}. {{ i.ques }}</ol><br />
 {{ i.ans }}
 {% endfor %}
 </ul>
