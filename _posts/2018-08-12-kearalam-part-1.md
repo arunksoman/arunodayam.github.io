@@ -1,6 +1,6 @@
 ---
 layout: post
-title: കേരളം ക്വിസ്: അദ്ധ്യായം ഒന്ന്
+title: "കേരളം ക്വിസ്: അദ്ധ്യായം ഒന്ന്"
 date: 2018-08-12 16:15:39 -0700
 category: Vedic_Mathematics
 img: /static/IMG/about-kerala.jpg
