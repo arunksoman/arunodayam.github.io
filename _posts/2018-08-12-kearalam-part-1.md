@@ -11,7 +11,7 @@ tags:
 - In first
 ---
 
-{% for i in site.data.keralam-part1 %}
+{% for i in site.data.Keralam-part1 %}
 <div class="w3-panel w3-pale-blue w3-leftbar w3-border-blue">
 <p>{{ forloop.index }}. {{ i.ques }}</p>
 </div>
