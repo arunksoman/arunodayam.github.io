@@ -8,7 +8,7 @@ layout: default_alt
         {% capture category_slug %}{{ category | first }}{% endcapture %}
         {% for c_slug in category_slug %}
             {% if c_slug == page.categories %}
-                <button class="w3-button w3-red w3-ripple">{{ c_slug | replace: '_' , ' ' }}</button>
+                <button class="w3-button w3-red w3-ripple" style="margin-bottom:20px">{{ c_slug | replace: '_' , ' ' }}</button>
             {% else %}
                 <a href="{{ site.url }}{{site.baseurl}}/category/{{ c_slug }}" class="w3-button w3-red w3-ripple w3-hover-green">{{ c_slug | replace: '_',' ' }}</a>
             {% endif %}
