@@ -3,7 +3,7 @@ layout: post
 title: ഇന്ത്യയിൽ ആദ്യം
 date: 2018-08-08 10:07:39 -0700
 category: India
-img: /static/IMG/India.jpg
+img: /static/IMG/India-2.jpg
 color: deep-purple
 theme_color: "#673ab7"
 tags: 
