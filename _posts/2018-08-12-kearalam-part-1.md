@@ -2,7 +2,7 @@
 layout: post
 title: "കേരളം ക്വിസ്: അദ്ധ്യായം ഒന്ന്"
 date: 2018-08-12 16:15:39 -0700
-category: Vedic_Mathematics
+category: Keralam
 img: /static/IMG/Kerala.jpg
 color: deep-purple
 theme_color: "#673ab7"
