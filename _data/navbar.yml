@@ -1,9 +1,9 @@
 - menu: പൂമുഖം
-  link: http://entepsc.github.io
+  link: http://arunodayam.github.io
   icon: fas fa-home
  
 - menu: ബ്ലോഗ്
-  link: https://entepsc.github.io/blog
+  link: https://arunodayam.github.io/blog
   icon: fas fa-pencil-alt
 
 - menu: ഡോക്സ്
@@ -19,5 +19,5 @@
   icon: fa fa-paper-plane
 
 - menu: സൈറ്റ്മാപ്പ്
-  link: https://entepsc.github.io/sitemap.xml
+  link: https://arunodayam.github.io/sitemap.xml
   icon: fas fa-rss
