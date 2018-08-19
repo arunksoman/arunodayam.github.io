@@ -267,7 +267,7 @@ p{display:block;}
 .success{background:#ddffdd url('../svg/success.svg') no-repeat 13px 13px;background-size:18px 18px;border-left:6px solid #4CAF50;}
 .warning{background:#ffffcc url('../svg/warning.svg') no-repeat 13px 13px;background-size:18px 18px;border-left:6px solid #ffeb3b;}
 .info{background:#e7f3fe url('../svg/bulb.svg') no-repeat 13px 13px;background-size:18px 18px;border-left:6px solid #2196f3;}
-ol{list-style:decimal inside;}
+ol{list-style:decimal inside;margin-bottom:15px;}
 ul{list-style:disc inside;}
 #artLink a[target="_blank"]:after{content:"\f35d";font-family:"Font Awesome 5 Free";font-weight:900;margin:0 0 0 5px;}
 #artLink a:link{color:blue;background-color:transparent;text-decoration:none;border-bottom:2px solid #08f3f7;}
