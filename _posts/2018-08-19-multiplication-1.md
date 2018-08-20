@@ -3,7 +3,7 @@ layout: post
 title: "11 കൊണ്ട് ഗുണിക്കാം എളുപ്പത്തിൽ"
 date: 2018-08-19 23:45:39 -0700
 category: Mathematics
-img: /static/IMG/Kerala.jpg
+img: /static/IMG/maths.jpeg
 color: blue
 MathJax: true
 theme_color: "#2196f3"
