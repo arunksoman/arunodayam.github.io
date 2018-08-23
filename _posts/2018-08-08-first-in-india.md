@@ -11,7 +11,7 @@ tags:
 - In first
 ---
 
-{% for i in site.data.first_indian_digital %}
+{% for i in site.data.quiz.india.first_indian_digital %}
 <div class="w3-panel w3-pale-blue w3-leftbar w3-border-blue">
 <p>{{ forloop.index }}. {{ i.ques }}</p>
 </div>
