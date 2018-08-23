@@ -14,7 +14,7 @@ title: പോസ്റ്റുകൾ
       <h3><b>{{ post.title }}</b></h3>
    <span class="w3-opacity"><i class="fa fa-calendar" aria-hidden="true"></i> Posted on {{ post.date | date_to_string }}</span><span class="w3-opacity w3-tag w3-gray" style="transform:rotate(-5deg)"><a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.category }}"> <i class="fas fa-folder"></i> {{ post.category | replace:'_',' ' }}</a></span>
       <p>{{ post.content | strip_html | truncatewords: 40 }}</p><br />
-         <a href="{{ post.url | prepend: site.baseurl }}" class="w3-button w3-black">Read More</a>
+         <a href="{{ post.url | prepend: site.baseurl }}" class="w3-button w3-black">കൂടുതൽ വായിക്കൂ</a>
    <hr />
 {% endfor %}
       
@@ -28,9 +28,9 @@ title: പോസ്റ്റുകൾ
   {% endcomment %}
 {% if paginator.total_pages > 1 %}
   {% if paginator.previous_page %}
-    <a class="w3-button" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a class="w3-button" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; പിന്നോട്ട്</a>
    {% else %}
-    <a class="w3-button" href="#">&laquo; Prev</a>
+    <a class="w3-button" href="#">&laquo; പിന്നോട്ട്</a>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -44,9 +44,9 @@ title: പോസ്റ്റുകൾ
   {% endfor %}
 
   {% if paginator.next_page %}                                                                                                                 
-    <a class="w3-button" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a class="w3-button" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">മുന്നോട്ട് &raquo;</a>
   {% else %}
-    <a class="w3-button" href="#">Next &raquo;</a>
+    <a class="w3-button" href="#">മുന്നോട്ട് &raquo;</a>
   {% endif %}
 {% endif %}
 <!-- end of pagination -->
