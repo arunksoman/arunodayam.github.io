@@ -1,15 +1,15 @@
 - icon: fab fa-whatsapp
-  link: "#"
+  link: "https://wa.me/8281618806"
   color: "#25d366;"
   
 - icon: fab fa-twitter
-  link: "#"
+  link: "https://twitter.com/ARUNKSOMAN2"
   color: "#55acee;"
   
 - icon: fas fa-envelope
-  link: "#"
+  link: "mailto:arunksoman5678@gmail.com"
   color: "#dd4b39;"
   
-- icon: fab fa-stack-exchange
-  link: "#"
+- icon: fas fa-paper-plane
+  link: "t.me/I_am_Arun"
   color: "#125688;"
